@@ -15,4 +15,3 @@ for item in array:
 
 check = "True" if 'anna'.lower() in name_list else 'False'
 print(check)
-    
